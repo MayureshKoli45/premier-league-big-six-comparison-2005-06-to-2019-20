@@ -4,14 +4,14 @@ Title:-
 Premier League Big Six Comparison (2005-06 To 2019-20) Covering 15 Years Of Premier League
 
 Data Links:-
-https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons
-https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._seasons
-https://en.wikipedia.org/wiki/List_of_Liverpool_F.C._seasons
-https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._seasons
-https://en.wikipedia.org/wiki/List_of_Tottenham_Hotspur_F.C._seasons
-https://en.wikipedia.org/wiki/List_of_Manchester_City_F.C._seasons
-https://www.premierleague.com/home
-https://www.transferleague.co.uk
+https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons,
+https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._seasons,
+https://en.wikipedia.org/wiki/List_of_Liverpool_F.C._seasons,
+https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._seasons,
+https://en.wikipedia.org/wiki/List_of_Tottenham_Hotspur_F.C._seasons,
+https://en.wikipedia.org/wiki/List_of_Manchester_City_F.C._seasons,
+https://www.premierleague.com/home,
+https://www.transferleague.co.uk,
 https://www.transfermarkt.co.in
 
 Description:-
