@@ -1,4 +1,4 @@
-# Data-Analysis-and-Plotting-Project-2
+# Premier League Big Six Comparison (2005-06 To 2019-20) Covering 15 Years Of Premier League
 
 Title:-
 Premier League Big Six Comparison (2005-06 To 2019-20) Covering 15 Years Of Premier League
